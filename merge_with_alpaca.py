@@ -1,3 +1,5 @@
+# This code is only necessary if you want to merge the counseling dataset with the original ALPACA dataset
+
 import json
 
 final_global = []
